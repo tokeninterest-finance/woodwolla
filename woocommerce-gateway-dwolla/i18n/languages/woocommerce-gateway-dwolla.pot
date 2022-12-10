@@ -1,0 +1,168 @@
+# Copyright (C) 2017 SkyVerge
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Dwolla Gateway 1.7.0\n"
+"Report-Msgid-Bugs-To: https://woocommerce.com/my-account/tickets/\n"
+"POT-Creation-Date: 2014-06-15 22:41:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-wc-gateway-dwolla.php:70
+#: includes/class-wc-gateway-dwolla.php:122
+msgid "Dwolla"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:112
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:114
+msgid "Enable Dwolla"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:119
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:121
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:126
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:128
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:129
+msgid "Pay using your Dwolla account"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:133
+msgid "Dwolla Account ID"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:135
+msgid "Ex. 812-111-1111"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:140
+msgid "App Key"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:142
+msgid "Please enter your Dwolla Application's Client ID (Consumer Key)."
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:147
+msgid "App Secret"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:149
+msgid "Please enter your Dwolla Application's Secret String (Consumer Secret)."
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:153
+msgid "Allow Guest Checkouts"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:155
+msgid "Allow non-Dwolla customers to checkout with their bank account."
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:160
+msgid "Test Mode"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:162
+msgid "Enable Test Mode"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:167
+msgid "Debug"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:169
+msgid "Enable logging to the WooCommerce log."
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:273
+msgid "Response body missing"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:281
+msgid "Response JSON missing Result"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:323
+#. translators: Placeholders: %1$s - site name, %2$s - order number
+msgid "%1$s - Order %2$s"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:378
+msgid "Order Fee"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:418
+#: includes/class-wc-gateway-dwolla.php:420
+msgid "N/A"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:451
+msgid "Signatures do not match"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:458
+msgid "Order amounts do not match"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:474
+#. translators: Placeholders: %1$s - transaction ID, %2$s - transaction
+#. clearing date
+msgid "Dwolla Payment completed, transaction ID: %1$s, expected clearing date: %2$s"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:515
+msgid "Order Failed, please contact us."
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:528
+msgid "Payment callback failed"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:542
+msgid "Dwolla Payment Failed (%s)"
+msgstr ""
+
+#: includes/class-wc-gateway-dwolla.php:552
+msgid "An error occurred, please try again or try an alternate form of payment."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Dwolla Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woocommerce.com/products/dwolla/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds Dwolla as a payment method for customers on your WooCommerce store. "
+"SSL certificate recommended, but not required."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SkyVerge"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.woocommerce.com/"
+msgstr ""
